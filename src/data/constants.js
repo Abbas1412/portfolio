@@ -11,7 +11,7 @@ export const Bio = {
     "Hi, I’m Zamin Abbas, a Python Developer with a strong focus on backend development, API integration, and machine learning. I enjoy building scalable applications, optimizing performance, and solving complex problems through clean and efficient code. My expertise includes working with FastAPI, Flask, and Django, along with database management and cloud services",
   github: "https://github.com/Abbas1412",
   resume:
-    "",
+    "https://drive.google.com/file/d/110DuFtP50oEz5vpjcbp3Pz9QtRIrQNXm/view",
   linkedin: "https://www.linkedin.com/in/zamin-abbas1412/",
   twitter: "https://x.com/zamin0947?t=95PEBgaZcODZR-XhzhXx-Q&s=09",
   insta: "https://www.instagram.com/abbas.baloch_1412/",
