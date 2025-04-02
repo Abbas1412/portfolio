@@ -39,7 +39,7 @@ export const skills = [
       },
       {
         name: "FastAPI",
-        image: "https://datascientest.com/en/files/2023/10/fastAPI-1.webp",
+        image: "https://static-00.iconduck.com/assets.00/fastapi-icon-2048x2048-6n8wojg8.png",
       },
       {
         name: "Flask",
