@@ -95,7 +95,7 @@ export const skills = [
       {
         name: "Keras",
         image:
-          "https://d2ooyrflu7lhqd.cloudfront.net/Keras_161c0deeeb.png?format=auto",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ56TKspHSS2gqY0pyPggRKQ3KlRktpQX5tDg&s",
       },
       {
         name: "NLTK",
@@ -103,7 +103,7 @@ export const skills = [
       },
       {
         name: "Matplotlib",
-        image: "https://studyopedia.com/wp-content/uploads/2022/12/Matplotlib-featured-image-studyopedia.png",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfd_SAZEMty7JzYjZE1jXcxjCTlMpxHIGuwA&s",
       },
       {
         name: "Seaborn",
