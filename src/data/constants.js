@@ -49,21 +49,21 @@ export const skills = [
       {
         name: "Django",
         image:
-          "https://dhupieit.com/uploads/service/Dijango_1717346495.png",
+          "https://www.syntera.ch/blog/wp-content/uploads/2024/07/dajngo.jpg",
       },
       {
         name: "PostgreSQL",
         image:
-          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZpTTcfn6qzA-3-lyCO291dj-tjHZFrvyMvOhrsZJ8lr-FH0tDd6zctFrPK7xWBgy8rCkO7nqMwZF5RKODCxa-EkqgvkyOfnpEXGQB_XsmFZJdxt9cmsImuvgi2BJskmfCy3OFRcuw5l7I2zn8WJF5AIEDS5Bf6zvS6HOfaJG4E-9B9xCFMARsLpaBtB_l/s728-rw-e365/pistgresql.png",
+          "https://ih1.redbubble.net/image.738781134.5286/raf,750x1000,075,t,101010:01c5ca27c6.jpg",
       },
       {
         name: "MySQL",
         image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7VofdmPnt1ZYROHeZIHLROMfi5jVQiNq61A&s",
+          "https://cdn.intuji.com/2023/10/MySQL.png",
       },
       {
         name:"MongoDB",
-        image:"https://www.developer-tech.com/wp-content/uploads/2021/02/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2.jpg"
+        image:"https://www.thefastmode.com/media/k2/items/src/91837bdb9c0ed0de3644975ceff078f1.jpg?t=20240101_055515"
       },
     ],
   },
@@ -72,12 +72,12 @@ export const skills = [
     skills: [
       {
         name: "NumPy",
-        image: "https://miro.medium.com/v2/resize:fit:765/0*08yGjjxAPbImpkhQ.png",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGjakzA3DBgSBIyGqAEI0qGnyqYVz1GhmnhA&s",
       },
       {
         name: "Pandas",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/800px-Pandas_logo.svg.png",
+          "https://cdn.prod.website-files.com/5d2a159e86b66b534fbc0d86/6682b72e598ead573c91ee68_Pandas.png",
       },
       {
         name: "Scikit-learn",
@@ -163,7 +163,7 @@ export const skills = [
       {
         name: "GitHub",
         image:
-          "https://www.webfx.com/wp-content/uploads/2022/08/github-logo.png",
+          "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_57dd97ecbc77b248c077fd49ed91e856/golearn.png",
       },
 
       {
