@@ -90,7 +90,7 @@ export const skills = [
       },
       {
         name: "PyTorch",
-        image: "https://twimlai.com/wp-content/uploads/Pytorch-image.png",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIYESNrxVj4Mvlt-cEXJnNcqmItq75-kWR7g&s",
       },
       {
         name: "Keras",
